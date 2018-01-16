@@ -21,6 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout << "Ceci est un test";
+    cout << "Test 2";
     return 0;
 }
 
